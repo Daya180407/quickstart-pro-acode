@@ -1,0 +1,9 @@
+{
+  "id": "quickstart.pro",
+  "name": "QuickStart Pro",
+  "main": "main.js",
+  "version": "1.0.0",
+  "minVersionCode": 290,
+  "author": "Sagar",
+  "description": "Advanced multi-template project generator plugin for Acode."
+}
